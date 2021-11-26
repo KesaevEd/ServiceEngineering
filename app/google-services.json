@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37453871598",
+    "firebase_url": "https://serviseeng-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "serviseeng",
+    "storage_bucket": "serviseeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37453871598:android:0de092d424ce9edbed36ff",
+        "android_client_info": {
+          "package_name": "com.example.servisengineering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37453871598-kfa1j9ve428tdjctf17l60np4n01bcrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCVyrX-HYPcc8GRC304iUJz2Fxojo168"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37453871598-kfa1j9ve428tdjctf17l60np4n01bcrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
